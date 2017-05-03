@@ -10,7 +10,7 @@ namespace TestGitHub
     {
         static void Main(string[] args)
         {
-//Note
+            System.Console.WriteLine("Hello World");
         }
     }
 }
